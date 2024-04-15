@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Meysam
 
-<!--
-**mfaghfoory/mfaghfoory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 Senior Software Engineer based in Gothenburg 🇸🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Specializing in .NET framework, with a knack for Angular and React
+
+🌟 Passionate about crafting clean, efficient code and solving complex problems
+
+📚 Always learning and exploring new technologies
+
+💬 Let's connect and collaborate on exciting projects!
+
+[LinkedIn](https://www.linkedin.com/in/meysam-faghfouri-097357109/)
